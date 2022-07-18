@@ -1,15 +1,22 @@
 [
-    {
-         "commonname": "Leo",
-        "fullname": "Leo Tsukinaga",
-        "filename": "https://64.media.tumblr.com/571ea0113d0925101be582e3a6def332/a6b7e86c17f83eec-3f/s400x600/885c1fbab492d162e79710f1248d48a23d9c654b.pnj"
-    },
-    
+
     {
 
-        "commonname": "Leo",
-        "fullname": "Leo Tsukinaga",
-        "filename": "https://64.media.tumblr.com/571ea0113d0925101be582e3a6def332/a6b7e86c17f83eec-3f/s400x600/885c1fbab492d162e79710f1248d48a23d9c654b.pnj"
+        "commonname": "Mao",
+
+        "fullname": "Isara Mao",
+
+        "filename": "https://cdn.jsdelivr.net/gh/enstars/img/icon/mao.png"
+
+    },
+
+    {
+
+        "commonname": "Izumi",
+
+        "fullname": "Sena Izumi",
+
+        "filename": "https://cdn.jsdelivr.net/gh/enstars/img/icon/izumi.png"
 
     }
 
